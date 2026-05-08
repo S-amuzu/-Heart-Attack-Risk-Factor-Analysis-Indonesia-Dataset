@@ -30,3 +30,9 @@ tidyverse, ggplot2, caret, e1071, pROC, mgcv, neuralnet, corrplot
 ## Usage
 Open and run the R script/RMarkdown file sequentially.
 Set the correct file path for the dataset on your machine.
+
+## Files
+| File | Description |
+|------|-------------|
+| `Final_heart_attack_Final.Rmd` | Final submitted RMarkdown report |
+| `Final_heart_attack_Final.pdf` | Compiled PDF output of the final report |
