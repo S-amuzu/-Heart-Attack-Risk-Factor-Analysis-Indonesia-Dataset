@@ -34,5 +34,5 @@ Set the correct file path for the dataset on your machine.
 ## Files
 | File | Description |
 |------|-------------|
-| `Final_heart_attack_Final.Rmd` | Final submitted RMarkdown report |
-| `Final_heart_attack_Final.pdf` | Compiled PDF output of the final report |
+| Final_heart_attack_Final.Rmd | Final submitted RMarkdown report |
+| Final_heart_attack_Final.pdf | Compiled PDF output of the final report |
